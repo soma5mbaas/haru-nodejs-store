@@ -1,6 +1,6 @@
 {
   "name": "haru-nodejs-store",
-  "version": "0.0.18",
+  "version": "0.0.23",
   "description": "haru database connectors",
   "main": "index.js",
   "scripts": {
