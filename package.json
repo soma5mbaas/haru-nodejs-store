@@ -1,6 +1,6 @@
 {
   "name": "haru-nodejs-store",
-  "version": "0.0.35",
+  "version": "0.0.49",
   "description": "haru database connectors",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "haru-nodejs-util": "0.0.28",
+    "haru-nodejs-util": "0.0.44",
     "hiredis": "^0.1.17",
     "mongodb": "^1.4.19",
     "mysql": "^2.5.3",
